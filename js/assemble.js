@@ -59,7 +59,7 @@ let appHeader = `
                             </div>
                             <div class="ps-3">
                                 <p class="mb-2">Call Us</p>
-                                <h6 class="mb-0">+971 522 417 862</h6>
+                                <h6 class="mb-0">+971 50 816 9951</h6>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ let appHeader = `
                             </div>
                             <div class="ps-3">
                                 <p class="mb-2">Email Us</p>
-                                <h6 class="mb-0">info@example.com</h6>
+                                <h6 class="mb-0">contact@dubaivisionpro.com</h6>
                             </div>
                         </div>
                     </div>
@@ -121,9 +121,9 @@ let appFooter = `
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Address</h5>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Office 620, 99 Commons Building, Puito Road, Tuenmun, NT Hong Kong</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+971 50 816 9951</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>Contact@dubaivisionpro.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-secondary rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-square btn-outline-secondary rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -176,7 +176,7 @@ let appFooter = `
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="#">Your Site Name</a>, All Right Reserved.
+                    &copy; <a href="#">Dubai Vision Pro</a>, All Right Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
